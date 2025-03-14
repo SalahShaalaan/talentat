@@ -61,9 +61,7 @@ cd client && npm run dev
 Client:
 - `npm run dev`: Starts development server
 - `npm run build`: Creates production build
-- `npm run preview`: Preview production build
 
 Server:
 - `npm run dev`: Starts development server with nodemon
-- `npm start`: Starts production server
 
